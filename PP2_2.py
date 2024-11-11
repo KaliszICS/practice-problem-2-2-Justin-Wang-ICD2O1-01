@@ -13,7 +13,7 @@ def q1():
 def q2(): 
   #Write Assignment code here
   num= input("Input a number: ")
-  num= int(num)
+  num= float(num)
   if num > 0:
     print("Positive")
   else:
